@@ -2,8 +2,6 @@
 
 A modern, subscription-based SaaS platform built with React, Supabase, and Tailwind CSS. This platform offers tiered pricing plans with AI capabilities, secure authentication, and real-time subscription management.
 
-![Platform Preview](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80)
-
 ## Features
 
 - 🔐 Secure authentication with Supabase
@@ -147,4 +145,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support, email support@yourdomain.com or join our Slack channel.
+For support, email support@webxela.com.
